@@ -1,0 +1,47 @@
+
+.table-container{
+    background-color:rgb(255, 255, 255);
+    padding: 0 10%;
+    margin: 40px auto 0;
+}
+.heading{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #0e9aec;
+}
+.table-container{
+    width: 100%;
+    border-collapse: collapse;
+    
+
+}
+.table thead{
+   
+
+}
+.table thead tr th{
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.35px;
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    padding: 12px;
+    vertical-align: top;
+    border: 1px solid ;
+}
+.table tbody tr td{
+    font-size: 25px;
+    letter-spacing: 0.35;
+    font-weight: normal;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid;
+}
+.table .text_open{
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0.35px;
+}
+
+
